@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hafzan-technologies.github.io/chronicles/sitemap.xml
