@@ -61,7 +61,3 @@
   weight = 10
   identifier = "browse"
   url = "/showcase/"
-
-[[secondary]]
-  name = "Submit to Themes"
-  url = "https://github.com/h-enk/hyas/discussions?discussions_q=category%3A%22Show+
