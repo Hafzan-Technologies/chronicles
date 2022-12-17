@@ -1,20 +1,19 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Hafzan Holdings"
+title = "Hafzan's Chronicles"
 titleSeparator = "-"
 titleAddition = "Home"
-description = "We deliver active investment strategies across public and private markets and custom solutions to institutional and individual investors."
-
+description = "A Blog"
 ## Open Graph
 ogLocale = "en_US"
-titleHome = "Hafzan Holdings"
+titleHome = "Hafzan's Chronicles"
 
 
 ## JSON-LD
-# schemaType = "Person"
-schemaType = "Organization"
-schemaName = "Hafzan Holdings"
+schemaType = "Person"
+#schemaType = "Organization"
+schemaName = "Hafzan's Chronicles"
 schemaAuthor = "Hafzan Osmanoglu"
 schemaLocale = "en-US"
 schemaLogo = ""
@@ -50,8 +49,8 @@ singleSize = false
 imageAddClass = "img-fluid lazyload blur-up"
 
 # Footer
-footer = "Copyright (c) 2020-2021 Hafzan Holdings"
-copyRight = "Copyright (c) 2020-2021 Hafzan Holdings"
+footer = "Copyright (c) 2020-2021 Hafzan's Chronicles"
+copyRight = "Copyright (c) 2020-2021 Hafzan's Chronicles"
 
 # Alert
 alert = false
