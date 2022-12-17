@@ -35,24 +35,10 @@
   url = "/docs/help/"
 
 [[main]]
-  name = "Who We Are"
-  url = "/about/"
+  name = "Blog"
+  url = "/blog/"
   weight = 10
 
-[[main]]
-  name = "Solutions"
-  url = "/solutions/"
-  weight = 20
-
-[[main]]
-  name = "News & Insights"
-  url = "/blog/"
-  weight = 30
-
-[[main]]
-  name = "Careers"
-  url = "/careers/"
-  weight = 40
 
 [[social]]
   name = "Twitter"
@@ -78,16 +64,4 @@
 
 [[secondary]]
   name = "Submit to Themes"
-  url = "https://github.com/h-enk/hyas/discussions?discussions_q=category%3A%22Show+and+tell%22"
-  weight = 10
-
-[[themes]]
-  name = "Browse"
-  weight = 10
-  identifier = "browse"
-  url = "/themes/"
-
-[[tertiary]]
-  name = "Submit to Showcase"
-  url = "https://github.com/h-enk/hyas/discussions?discussions_q=category%3A%22Show+and+tell%22"
-  weight = 10
+  url = "https://github.com/h-enk/hyas/discussions?discussions_q=category%3A%22Show+
