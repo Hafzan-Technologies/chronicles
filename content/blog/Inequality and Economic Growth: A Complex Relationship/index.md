@@ -2,8 +2,8 @@
 title: "Inequality and Economic Growth: A Complex Relationship"
 description: "Inequality and Economic Growth: A Complex Relationship"
 lead: ""
-date: 2020-10-06T08:50:12+00:00
-lastmod: 2020-10-06T08:50:12+00:00
+date: 2022-12-16T08:50:12+00:00
+lastmod: 2022-12-16T08:50:12+00:00
 draft: false
 weight: 50
 contributors: ["Hafzan Osmanoglu"]
