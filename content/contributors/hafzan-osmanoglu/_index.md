@@ -8,4 +8,3 @@ images: []
 ---
 
 <p class="meta">Creator of Hafzan's Chronicles & Hafzan Holdings</p>
-
