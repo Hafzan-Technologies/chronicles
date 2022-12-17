@@ -2,8 +2,8 @@
 title: "The Future of Money: Digital Currencies and the Economy"
 description: "The Future of Money: Digital Currencies and the Economy"
 lead: ""
-date: 2020-10-06T08:50:12+00:00
-lastmod: 2020-10-06T08:50:12+00:00
+date: 2022-12-15T08:50:12+00:00
+lastmod: 2022-12-15T08:50:12+00:00
 draft: false
 weight: 50
 contributors: ["Hafzan Osmanoglu"]
