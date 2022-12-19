@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hafzan-technologies.github.io/chronicles/sitemap.xml
+Sitemap: https://www.chronicles.gq/sitemap.xml
